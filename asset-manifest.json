@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.3a7ab539.chunk.js",
-    "main.js.map": "/static/js/main.3a7ab539.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6d717138.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6d717138.js.map",
-    "static/js/2.7eab07af.chunk.js": "/static/js/2.7eab07af.chunk.js",
-    "static/js/2.7eab07af.chunk.js.map": "/static/js/2.7eab07af.chunk.js.map",
-    "static/js/3.8b040a48.chunk.js": "/static/js/3.8b040a48.chunk.js",
-    "static/js/3.8b040a48.chunk.js.map": "/static/js/3.8b040a48.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7eab07af.chunk.js.LICENSE.txt": "/static/js/2.7eab07af.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "https://nikhedonia.github.io/image-curtain-viewer/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "https://nikhedonia.github.io/image-curtain-viewer/static/js/main.3a7ab539.chunk.js",
+    "main.js.map": "https://nikhedonia.github.io/image-curtain-viewer/static/js/main.3a7ab539.chunk.js.map",
+    "runtime-main.js": "https://nikhedonia.github.io/image-curtain-viewer/static/js/runtime-main.73ddf3f2.js",
+    "runtime-main.js.map": "https://nikhedonia.github.io/image-curtain-viewer/static/js/runtime-main.73ddf3f2.js.map",
+    "static/js/2.7eab07af.chunk.js": "https://nikhedonia.github.io/image-curtain-viewer/static/js/2.7eab07af.chunk.js",
+    "static/js/2.7eab07af.chunk.js.map": "https://nikhedonia.github.io/image-curtain-viewer/static/js/2.7eab07af.chunk.js.map",
+    "static/js/3.8b040a48.chunk.js": "https://nikhedonia.github.io/image-curtain-viewer/static/js/3.8b040a48.chunk.js",
+    "static/js/3.8b040a48.chunk.js.map": "https://nikhedonia.github.io/image-curtain-viewer/static/js/3.8b040a48.chunk.js.map",
+    "index.html": "https://nikhedonia.github.io/image-curtain-viewer/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "https://nikhedonia.github.io/image-curtain-viewer/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7eab07af.chunk.js.LICENSE.txt": "https://nikhedonia.github.io/image-curtain-viewer/static/js/2.7eab07af.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://nikhedonia.github.io/image-curtain-viewer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d717138.js",
+    "static/js/runtime-main.73ddf3f2.js",
     "static/js/2.7eab07af.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.3a7ab539.chunk.js"
